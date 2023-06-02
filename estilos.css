@@ -1,0 +1,37 @@
+h1{
+    background-color: black;
+    color: white;
+}
+
+h2{
+color: blue;
+}
+
+#titulo-2{
+text-align: center;
+}
+
+.paragrafo{
+background-color: black;
+color: white;
+text-align: justify;
+}
+
+h3{
+    color: red;
+}
+
+.titulo-3{
+    color: green;
+}
+
+#titulo{
+    text-align: justify;
+}
+
+*{
+    font-family: cursive;
+}
+
+
+
